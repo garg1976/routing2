@@ -22,7 +22,7 @@ function App() {
   },
     {
     path:"/contactus",
-    element:<><Navbar/> <ContactUs/></>
+    element:<> <ContactUs/></>
   
   },
     {

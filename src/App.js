@@ -13,7 +13,7 @@ function App() {
     const routes = createBrowserRouter([{
       path:"/",
       element:<><Navbar/> <Home/></>,
-      errorElement:<PageNotFound/>
+      errorElement:<Navbar/> 
     },
     {
     path:"/about",
